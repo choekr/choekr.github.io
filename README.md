@@ -14,6 +14,7 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 
 https://twitter.com/davidmillerskt<br>
 https://github.com/davidtmiller<br>
+
 Start Bootstrap is based on the Bootstrap framework created by Mark Otto and Jacob Thorton.
 
 Copyright and License
