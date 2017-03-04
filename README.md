@@ -12,8 +12,8 @@ If any questions or need to contact creator, please email: choeku86@gmail.com
 
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/)
 
-https://twitter.com/davidmillerskt
-https://github.com/davidtmiller
+https://twitter.com/davidmillerskt<br>
+https://github.com/davidtmiller<br>
 Start Bootstrap is based on the Bootstrap framework created by Mark Otto and Jacob Thorton.
 
 Copyright and License
